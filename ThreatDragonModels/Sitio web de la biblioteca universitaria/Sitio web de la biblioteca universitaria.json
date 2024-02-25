@@ -839,9 +839,18 @@
             }
           }
         ]
+      },
+      {
+        "id": 3,
+        "title": "Diagrama de flujo de datos 2",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.2.0",
+        "cells": []
       }
     ],
-    "diagramTop": 3,
+    "diagramTop": 4,
     "reviewer": "Guillermo Vera",
     "threatTop": 10
   }
